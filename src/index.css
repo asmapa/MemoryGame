@@ -1,0 +1,12 @@
+body {
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+  font-size: 1.5em;
+  text-align: center;
+  padding: 0;
+  height: 100vh;
+  /* Use viewport height */
+  overflow: hidden;
+  /* Disable scrolling on body */
+  color: #fff;
+}
